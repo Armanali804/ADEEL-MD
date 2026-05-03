@@ -1,12 +1,12 @@
 <h1 align="center">  
-  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
+  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="ARMAN-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
 </h1>  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 
 <!-- WELLCOME SVG -->
 <p align="center">
-  <img src="./ADEEL/wellcome.svg" alt="WELLCOME" width="900"/>
+  <img src="./ARMAN/wellcome.svg" alt="WELLCOME" width="900"/>
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -25,7 +25,7 @@
 <!-- CHANNEL UPDATE SVG -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
-    <img src="./ADEEL/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+    <img src="./ARMAN/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <!-- VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ARMAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -43,7 +43,7 @@
 <!-- FORK & STAR SVG (BUTTON) -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork" target="_blank">
-    <img src="./ADEEL/forkstar.svg" width="180" alt="Fork Star Bot Repo"/>
+    <img src="./ARMAN/forkstar.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <!-- DEPLOYMENT TITLE SVG -->
 <p align="center">
-  <img src="./ADEEL/deployment.svg" width="600" alt="ADEEL MD — Deployment Options">
+  <img src="./ARMAN/deployment.svg" width="600" alt="ARMAN MD — Deployment Options">
 </p>
 
 <!-- HEROKU AND VPS BUTTONS (ADDED) -->
@@ -84,7 +84,7 @@
 
 <!-- FEATURE BOT SVG -->
 <p align="center">
-  <img src="./ADEEL/feature-bot.svg" alt="Feature Bot" width="900"/>
+  <img src="./ARMAN/feature-bot.svg" alt="Feature Bot" width="900"/>
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -93,7 +93,7 @@
 <!-- YOUTUBE SVG -->
 <p align="center">
   <a href="https://youtube.com/@adeel?si=ZVANSbKM0yajAbl_" target="_blank">
-    <img src="./ADEEL/youtube.svg" alt="YouTube" width="250"/>
+    <img src="./ARMAN/youtube.svg" alt="YouTube" width="250"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
 
 <!-- LICENSE ONLY (ACTIVE REMOVED) -->
 <p align="center">
-  <img src="./ADEEL/license.svg" alt="License" width="200"/>
+  <img src="./ARMAN/license.svg" alt="License" width="200"/>
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -123,7 +123,7 @@
 
 <!-- FOOTER -->
 <h2 align="center">  
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">ᴀᴅᴇᴇʟ-ᴍᴅ</span>✨🌈  
+  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">ARMAN-ᴍᴅ</span>✨🌈  
 </h2>
 
 <!-- CONTRIBUTORS TYPING ANIMATION -->
@@ -135,13 +135,13 @@
 
 <!-- STARGAZERS AND FORKERS ROSTER -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers Repo Roster">
+  <a href="https://github.com/Adeel-Xtech/ARMAN-MD/stargazers">
+    <img src="http://reporoster.com/stars/dark/Adeel-Xtech/ARMAN-MD" alt="Stargazers Repo Roster">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Adeel-Xtech/ADEEL-MD" alt="Forkers Repo Roster">
+  <a href="https://github.com/Adeel-Xtech/ARMAN-MD/network/members">
+    <img src="http://reporoster.com/forks/dark/Adeel-Xtech/ARMAN-MD" alt="Forkers Repo Roster">
   </a>
 </p>
 
@@ -150,7 +150,7 @@
 
 <!-- BACK TO TOP -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD">
+  <a href="https://github.com/Adeel-Xtech/ARMAN-MD">
     <img src="https://img.shields.io/badge/⬆️-𝐁𝐀𝐂𝐊 𝐓𝐎 𝐓𝐎𝐏-⬆️?style=for-the-badge&color=ff69b4" />
   </a>
 </p>
